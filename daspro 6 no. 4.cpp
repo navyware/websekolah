@@ -1,6 +1,10 @@
+
 aih ku rusak kodingan mu hahahahahaha 
 #include <stdio.h>
 #include <math.h>
+
+
+
 
 void setcolor  (unsigned short color) {
 	HANDLE hCon = GetStdHandle (STD_OUTPUT_HANDLE);
