@@ -1,3 +1,4 @@
+aih ku rusak kodingan mu hahahahahaha 
 #include <stdio.h>
 #include <math.h>
 
